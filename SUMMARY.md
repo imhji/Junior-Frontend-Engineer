@@ -1,3 +1,4 @@
 # Table of contents
 
-- [📌 week 1](week1/README.md)
+* [README](README.md)
+* [📌 week 1](week1/README.md)
